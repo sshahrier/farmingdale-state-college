@@ -25,4 +25,4 @@ Licensed under the [MIT License](LICENSE).
 <br>
 Copyright ©️ 2018. Sayem Shahrier.
 <br>
-All Rights Reserved.# farmingdale-state-college
+All Rights Reserved.
