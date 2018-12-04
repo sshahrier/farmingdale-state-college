@@ -1,6 +1,6 @@
 # Farmingdale State College
 
-![](images/fsc.png)
+![](images/fsc.PNG)
 
 ## Project Description
 
